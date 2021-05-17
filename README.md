@@ -10,7 +10,7 @@ Challenge is timer app using all new Jetpack Compose. I am already loving it.
 
 ## :camera_flash: Screenshots
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
-![caption](/results/demo.mp4)
+![Demo](/results/demo.mp4)
 
 ## License
 ```
